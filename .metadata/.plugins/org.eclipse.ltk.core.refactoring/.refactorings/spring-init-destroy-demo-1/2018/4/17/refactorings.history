@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.chrisyoo.springdemo.DISetterApp&apos; to &apos;InitDestroyApp&apos;&#x0A;- Original project: &apos;spring-init-destroy-demo-1&apos;&#x0A;- Original element: &apos;com.chrisyoo.springdemo.DISetterApp&apos;&#x0A;- Renamed element: &apos;com.chrisyoo.springdemo.InitDestroyApp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DISetterApp&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.chrisyoo.springdemo{DISetterApp.java[DISetterApp" matchStrategy="1" name="InitDestroyApp" qualified="false" references="true" similarDeclarations="false" stamp="1524729790563" textual="false" version="1.0"/>
+</session>

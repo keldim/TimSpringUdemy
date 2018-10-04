@@ -1,0 +1,15 @@
+#Tomcat publish data
+#Wed May 30 04:15:12 EDT 2018
+org.eclipse.jst.jee.server\:spring-mvc-handler-mapping-adapter-demo=/Library/Tomcat/wtpwebapps/spring-mvc-handler-mapping-adapter-demo
+org.eclipse.jst.jee.server\:spring-mvc-interceptor-demo-2=/Library/Tomcat/wtpwebapps/spring-mvc-interceptor-demo-2
+org.eclipse.jst.jee.server\:spring-mvc-request-mapping-param-demo=/Library/Tomcat/wtpwebapps/spring-mvc-request-mapping-param-demo
+org.eclipse.jst.jee.server\:/binary\:/Users/ChrisYoo/.m2/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar=/Library/Tomcat/wtpwebapps/spring-form-validation-demo/WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
+org.eclipse.jst.jee.server\:spring-bean-web-scope-demo=/Library/Tomcat/wtpwebapps/spring-bean-web-scope-demo
+org.eclipse.jst.jee.server\:spring-mvc-interceptor-demo-1=/Library/Tomcat/wtpwebapps/spring-mvc-interceptor-demo-1
+org.eclipse.jst.jee.server\:spring-mvc-model-attribute-demo=/Library/Tomcat/wtpwebapps/spring-mvc-model-attribute-demo
+org.eclipse.jst.jee.server\:spring-mvc-session-request-attribute-demo=/Library/Tomcat/wtpwebapps/spring-mvc-session-request-attribute-demo
+org.eclipse.jst.jee.server\:spring-mvc-form-tags-demo=/Library/Tomcat/wtpwebapps/spring-mvc-form-tags-demo
+org.eclipse.jst.jee.server\:spring-mvc-java-config-demo=/Library/Tomcat/wtpwebapps/spring-mvc-java-config-demo
+org.eclipse.jst.jee.server\:spring-mvc-jndi-demo=/Library/Tomcat/wtpwebapps/spring-mvc-jndi-demo
+org.eclipse.jst.jee.server\:JavaSpringDemo=/Library/Tomcat/wtpwebapps/JavaSpringDemo
+org.eclipse.jst.jee.server\:spring-form-validation-demo=/Library/Tomcat/wtpwebapps/spring-form-validation-demo

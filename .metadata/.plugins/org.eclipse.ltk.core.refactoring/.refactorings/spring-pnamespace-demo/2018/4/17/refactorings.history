@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.chrisyoo.springdemo.CNamespaceApp&apos; to &apos;PNamespaceApp&apos;&#x0A;- Original project: &apos;spring-pnamespace-demo&apos;&#x0A;- Original element: &apos;com.chrisyoo.springdemo.CNamespaceApp&apos;&#x0A;- Renamed element: &apos;com.chrisyoo.springdemo.PNamespaceApp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CNamespaceApp&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.chrisyoo.springdemo{CNamespaceApp.java[CNamespaceApp" matchStrategy="1" name="PNamespaceApp" qualified="false" references="true" similarDeclarations="false" stamp="1524803166723" textual="false" version="1.0"/>
+</session>

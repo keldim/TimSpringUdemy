@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RandomizerRequestScope.java&apos; to &apos;spring-bean-web-scope-demo/src/com.chrisyoo.springdemo.service&apos;&#x0A;- Original project: &apos;spring-bean-web-scope-demo&apos;&#x0A;- Destination element: &apos;spring-bean-web-scope-demo/src/com.chrisyoo.springdemo.service&apos;&#x0A;- Original element: &apos;com.chrisyoo.springdemo.service.RandomizerRequestScope.java&apos;" description="Copy compilation unit" destination="/src&lt;com.chrisyoo.springdemo.service" element1="/src&lt;com.chrisyoo.springdemo.service{RandomizerRequestScope.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1524716772280" units="1" version="1.0"/>
+</session>
